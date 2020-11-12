@@ -1,0 +1,7 @@
+{
+  "token": "DISCORD BOT TOKEN HERE",
+  "channelId": "CHANNEL ID HERE",
+  "request": "https://madchecker.com/api/domain/get-information?domain={0}",
+  "messageOnDelete": "Your message didn't contain a valid or unused TLD, so I've deleted it.",
+  "deleteMessageAfter": 10
+}
